@@ -1,0 +1,11 @@
+Enter the first number: 
+5
+Enter the second number: 
+8
+Before swapping:
+First number: 5
+Second number: 8
+After swapping:
+First number: 8
+Second number: 5
+

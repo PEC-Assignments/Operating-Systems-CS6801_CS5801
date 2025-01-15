@@ -1,0 +1,3 @@
+Enter a number: 
+5123
+The sum of digits is: 11

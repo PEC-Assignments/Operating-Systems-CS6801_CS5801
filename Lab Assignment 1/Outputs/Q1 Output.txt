@@ -1,0 +1,101 @@
+cat Command - displayed contents of sample.txt
+Hello World!
+
+chmod Command - changed sample.txt file to readonly
+
+cd Command - changed directory to sample dir
+/mnt/d/DEV/MSB/Github Organisations/MSB's PEC Assignmnets/Operating-Systems-CS6801_CS5801/Lab Assignment 1/sample dir
+
+cp Command - copied sample.txt to sample dir
+sample.txt
+
+date Command
+Wed Jan 15 20:43:06 UTC 2025
+
+echo Command
+Hello World
+
+ftp Command
+drwx------ 2 demo users          0 Mar 31  2023 pub
+-rw------- 1 demo users        379 Sep 19  2023 readme.txt
+
+grep Command - searched for 'Hello' in sample.txt
+Hello World!
+
+head Command - displayed first few lines of sample.txt
+Hello World!
+
+
+ls Command - listed files in sample dir
+sample.txt
+
+lpr Command - printed sample.txt
+
+more Command - displayed contents of sample.txt one screen at a time
+Hello World!
+
+
+mkdir Command - created a new directory 'new_dir'
+Outputs
+Q1.sh
+new_dir
+readme.txt
+sample dir
+sample.tar
+sample.txt
+
+mv Command - moved a.txt to new_dir
+a.txt
+
+ncftp Command
+[1mNcFTP 3.2.6[0m (Dec 04, 2016) by Mike Gleason (http://www.NcFTP.com/contact/).
+Resolving test.rebex.net...                                                     Connecting to 194.108.117.16...                                                 
+Welcome to test.rebex.net!
+    See https://test.rebex.net/ for more information and terms of use.
+If you don't have an account, log in as 'anonymous' or 'ftp'.
+Logging in...                                                                   
+User 'demo' logged in.
+Logging in...                                                                   Logged in to test.rebex.net.                                                    
+Directory changed to "/pub".
+
+pwd Command
+/mnt/d/DEV/MSB/Github Organisations/MSB's PEC Assignmnets/Operating-Systems-CS6801_CS5801/Lab Assignment 1
+
+rm Command - removed a.txt
+
+rmdir Command - removed new_dir
+Outputs
+Q1.sh
+readme.txt
+sample dir
+sample.tar
+sample.txt
+
+export Command - set environment variable 'TEST' to 'Hello'
+Hello
+
+sort Command - sorted sample.txt
+
+Hello World!
+
+tail Command - displayed last few lines of sample.txt
+Hello World!
+
+
+tar Command - created a tar file of sample.txt
+sample.txt
+Outputs
+Q1.sh
+readme.txt
+sample dir
+sample.tar
+sample.txt
+
+telnet Command
+Trying 64.13.139.230...
+Connected to telehack.com.
+Escape character is '^]'.
+
+wc Command - counted lines, words, and characters in sample.txt
+ 2  2 14 sample.txt
+
